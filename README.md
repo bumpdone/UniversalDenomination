@@ -1,4 +1,4 @@
-# Universal Denomination sample cryptocurrency
+# Universal Denomination Sample Cryptocurrency
 
 A simple guide on how to create your own cryptocurrency in 13 steps.
 
